@@ -149,6 +149,32 @@ function App() {
 export default App;
 
 
+// to run: ~ yarn start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // import React from 'react';
 // import logo from './logo.svg';
 // import './App.css';
