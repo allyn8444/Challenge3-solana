@@ -13,8 +13,23 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+/*   style={{
+              fontSize: "16px",
+              padding: "15px",
+              fontWeight: "bold",
+              borderRadius: "5px",
+            }}*/
+.connect{
+    font-size: 16px;
+    padding: 15px;
+    font-weight:bold;
+    border-radius: 5px;
+}
+
+
+/*#282c34*/
+.App{
+  background-color: #282c34; 
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +50,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.disconnect{
+  background-color: aqua;
+  font-size: 16px;
+  padding: 15px;
+  font-weight:bold;
+  border-radius: 5px;
+  position: absolute;
+  top: 40px; right: 40px;
 }
