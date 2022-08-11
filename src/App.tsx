@@ -108,6 +108,8 @@ function App() {
     }
   };
 
+
+  //disconnect wallet
   const disconnectWallet = async () => {
     const { solana } : any = window;
 
